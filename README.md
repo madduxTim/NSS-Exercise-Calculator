@@ -22,7 +22,7 @@ Practice exercise as part of work with Nashville Software School. Learning to bu
 - return statements
 
 ##Screenshot
-![The finished product:](URL for screenshot in github)
+![The finished product:](https://github.com/madduxTim/NSS-Exercise-Calculator/pull/1/files#diff-7088104d768632a6c5b918c48dfb17b8)
 
 ## How to run: 
 ```
