@@ -16,6 +16,10 @@ Practice exercise as part of work with Nashville Software School. Learning to bu
 ##Lessons learned / reinforced
 
 - lambda expressions
+- toFixed() 
+- parseInt()
+- math :'(
+- return statements
 
 ##Screenshot
 ![The finished product:](URL for screenshot in github)
@@ -27,5 +31,3 @@ http-server -p 5656
 This will show at: 
 `http://localhost:5656
 `
-
-

@@ -1,5 +1,6 @@
 #calculator {
-    border: 8px dotted black;
+    border: 8px groove darkorange;
+    border-radius: 5%;
     margin: 0 auto;
     max-width: 250px;
     height: 350px;
@@ -9,29 +10,44 @@
     float: left;
     margin: 10% 3% 3% 3%;
     width: 40%;
-    background-color: darkgrey;
+    background-color: lightgrey;
 }
 
 #input2 {
     float: right;
     margin: 10% 3% 3% 3%;
     width: 40%;
-    background-color: darkgrey;
+    background-color: lightgrey;
+}
+
+#tipButton {
+    font-weight: bolder;
+    float: left;
+    margin-left: 10%;
+    margin-top: 12%;
+    background-color: lightgrey;
+    color: darkorange;
+    border-radius: 5%;
+    width: 200px;
 }
 
 .buttons {
     font-weight: bolder;
     float: left;
-    margin-left: 13%;
-    margin-top: 20%;
-    background-color: darkgrey;
-    color: red;
+    margin-left: 8%;
+    margin-top: 12%;
+    background-color: lightgrey;
+    color: darkorange;
+    border-radius: 50%;
+    width: 40px;
 }
 
 #output {
-    background-color: darkgrey;
+    background-color: lightgrey;
+    border-radius: 5%;
     height: 130px;
     width: 200px;
-    margin: 65% auto;
+    margin: 72% auto;
     text-align: center;
+    padding: 5%;
 }
